@@ -47,3 +47,30 @@ Index, Customer Id, Information
 46,028,Terisi
 47,029,Terisi
 48,,Kosong
+
+Baik, saya salah paham sebelumnya. Mari kita tambahkan entri tambahan sehingga total entri menjadi 70, dengan beberapa entri memiliki pelanggan yang terdaftar dan beberapa entri tetap kosong. Berikut adalah cara menambahkan entri sehingga mencapai total 70:
+
+Copy code
+48,,Kosong
+49,,Kosong
+50,030,Terisi
+51,031,Terisi
+52,,Kosong
+53,,Kosong
+54,032,Terisi
+55,,Kosong
+56,033,Terisi
+57,034,Terisi
+58,,Kosong
+59,035,Terisi
+60,,Kosong
+61,036,Terisi
+62,,Kosong
+63,037,Terisi
+64,,Kosong
+65,038,Terisi
+66,039,Terisi
+67,,Kosong
+68,040,Terisi
+69,041,Terisi
+70,,Kosong
